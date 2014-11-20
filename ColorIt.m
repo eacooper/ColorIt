@@ -32,6 +32,14 @@ switch input
         
         color = [ 245 129 32 ];
         
+    case {'m','magenta',7}
+        
+        color = [ 170 48 93 ];
+        
+    case {'c','cyan',8}
+        
+        color = [ 0 174 239 ];
+        
 end
 
 color = color/255;
