@@ -4,7 +4,7 @@ function [color] = ColorIt(input)
 %
 % input can be a single letter (first letter of color name) or full color
 % name: reb, orange, yellow, green, blue, purple
-% or an index between 1-6
+% or an index between 1-8
 
 switch input
     
