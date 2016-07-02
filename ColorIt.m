@@ -40,6 +40,14 @@ switch input
         
         color = [ 0 174 239 ];
         
+    case {'k','black',9}
+        
+        color = [0 0 0];
+        
+    case {'br','brown',10}
+        
+        color = [87 65 47];
+        
 end
 
 color = color/255;
